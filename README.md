@@ -1,6 +1,10 @@
 # Name Generator
 
-This plugin is a fork of "Fantasy name generator" by Lukewh.
+This is an Obsidian plugin.
+
+It is a fork of "Fantasy name generator" by Lukewh:
+
+- https://github.com/Lukewh/fantasy-name
 
 It generates mostly German and English names for the TTRPG Cthulhu.
 
