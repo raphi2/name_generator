@@ -1,10 +1,16 @@
-# Fantasy name generator
+# Name Generator
 
-A fantasy name generator.
+This plugin is a fork of "Fantasy name generator" by Lukewh.
+
+It generates mostly German and English names for the TTRPG Cthulhu.
 
 ## Usage
 
-![gif of generator](.github/fantasy-names.gif)
+Available commands:
 
-
-_This plugin calls https://fantasyname.lukewh.com/ to generate the names. See https://fantasyname.lukewh.com/help for usage._
+- `Insert DE random name`
+- `Insert DE male name`
+- `Insert DE female name`
+- `Insert US random name`
+- `Insert US male name`
+- `Insert US female name`

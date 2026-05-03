@@ -1,7 +1,7 @@
 {
-  "name": "fantasy-names",
+  "name": "name_generator",
   "version": "0.1.0",
-  "description": "Insert a random fantasy name.",
+  "description": "Insert a random name.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
